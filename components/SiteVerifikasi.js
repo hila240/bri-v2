@@ -34,7 +34,7 @@ const SiteVerifikasi = ({btnClick, query}) => {
         />
         </h1>    
         <p style={{textAlign:'center', fontWeight:'bold', marginTop:'1em'}}>Silahkan cek kode tarif anda yang telah dikirim ke no handphone melalui SMS dari BRI OTP dan berlaku sampai 1-3 menit</p> 
-        <h4>KODE TARIF NORMAL</h4>   
+        <h4></h4>   
             <form>
             <label>
               Kode 6 angka ke-{query || 1} ({
